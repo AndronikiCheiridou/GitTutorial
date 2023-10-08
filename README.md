@@ -1,1 +1,1 @@
-This is GitTutorial
+This is GitTutorial we took in Thursday
